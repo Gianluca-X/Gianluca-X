@@ -1,5 +1,5 @@
 <p align="center">
-
+![](https://komarev.com/ghpvc/?username=Gianluca-X&color=blue&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
@@ -116,7 +116,24 @@ Database
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-X&layout=compact&theme=tokyonight"/>
 </p>
+---
+## 📈 Activity Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianluca-X&theme=tokyo-night"/>
+</p>
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gianluca-X/Gianluca-X/output/github-contribution-grid-snake.svg"/>
+</p>
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gianluca-X&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
