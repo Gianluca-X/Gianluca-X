@@ -1,37 +1,120 @@
-### Hi there I’m Gianluca👋
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<h1 align="center">Gianluca Fucci</h1>
+<h3 align="center">Backend Engineer | Java | Microservices Architecture</h3>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://s1.1zoom.me/b5050/282/Cats_Eyes_Canine_tooth_fangs_Black_background_549597_1920x1200.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/dwp1x/wp3477950.jpg">
- <img alt="alex-grey-paint" src="https://4.bp.blogspot.com/-W-NZUkbxwGI/UyGVQJqSEUI/AAAAAAAAXRg/rYKz7bi9REo/s1600/Alex_Grey-Deities_and_Demon.jpg">
-</picture>
+<p align="center">
+Building scalable backend systems and distributed architectures.
+</p>
 
+---
 
-## About me
+## 👨‍💻 About Me
 
-Hi, I'm FULLSTACK DEVELOPER.
-<details>
-<summary>My top languages</summary>
+Hi, I'm **Gianluca Fucci**, a backend-focused software engineer passionate about building scalable systems and robust APIs.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Java      |
-|     3| SQL       |
-|     4| HTML      |
-|     5| CSS       |
-</details>
-<!--
-**Gianluca-X/Gianluca-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Java and microservices architecture**, designing backend services that are modular, maintainable and production-ready.
 
-Here are some ideas to get you started:
+My main interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Distributed systems
+* Microservices architecture
+* Authentication and security
+* Backend performance
+* Clean architecture
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* REST APIs
+* JWT Authentication
+
+### Architecture
+
+* Microservices
+* API Gateway
+* Service Discovery (Eureka)
+* Load Balancing
+* Clean Architecture
+
+### Frontend
+
+* JavaScript
+* React
+* HTML
+* CSS
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+### Tools
+
+* Git
+* Docker
+* Postman
+* IntelliJ IDEA
+
+---
+
+## 🚀 Featured Project
+
+### Digital Money House
+
+A virtual wallet platform built using **microservices architecture**.
+
+Main features:
+
+* User management
+* Account management
+* Authentication with JWT
+* API Gateway routing
+* Service discovery
+
+Architecture overview:
+
+Client
+↓
+API Gateway
+↓
+Auth Service
+↓
+User Service
+↓
+Account Service
+↓
+Database
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gianluca-X&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-X&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: (add your linkedin)
+* Email: (add email)
+
+---
+
+## Philosophy
+
+> Build systems that scale, code that lasts, and architectures that stay simple.
