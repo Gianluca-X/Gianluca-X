@@ -2,6 +2,8 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 <h1 align="center">Gianluca Fucci</h1>
 <h3 align="center">Backend Engineer | Java | Microservices Architecture</h3>
 
@@ -110,8 +112,8 @@ Database
 
 ## 🌐 Connect
 
-* LinkedIn: (add your linkedin)
-* Email: (add email)
+* LinkedIn: ([add your linkedin](https://www.linkedin.com/in/fuccigianluca/))
+* Email: ([send email](mailto:gianluca.aroc@gmail.com))
 
 ---
 
