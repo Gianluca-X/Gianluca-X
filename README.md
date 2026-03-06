@@ -1,11 +1,16 @@
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+</p>
+
 <h1 align="center">Gianluca Fucci</h1>
-<h3 align="center">Backend Engineer | Java | Microservices Architecture</h3>
+<h3 align="center">Backend Engineer | Java | Microservices | Distributed Systems</h3>
 
 <p align="center">
 Building scalable backend systems and distributed architectures.
@@ -26,6 +31,8 @@ My main interests include:
 * Authentication and security
 * Backend performance
 * Clean architecture
+
+🎓 Backend specialization graduate from Digital House.
 
 ---
 
@@ -82,19 +89,21 @@ Main features:
 * API Gateway routing
 * Service discovery
 
-Architecture overview:
+### Architecture Overview
 
+```
 Client
-↓
+   ↓
 API Gateway
-↓
+   ↓
 Auth Service
-↓
+   ↓
 User Service
-↓
+   ↓
 Account Service
-↓
+   ↓
 Database
+```
 
 ---
 
@@ -110,13 +119,16 @@ Database
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-* LinkedIn: ([link](https://www.linkedin.com/in/fuccigianluca/))
-* Email: ([link](mailto:gianluca.aroc@gmail.com))
+💼 LinkedIn
+https://www.linkedin.com/in/fuccigianluca/
+
+📧 Email
+[gianluca.aroc@gmail.com](mailto:gianluca.aroc@gmail.com)
 
 ---
 
-## Philosophy
+## 🧠 Engineering Philosophy
 
 > Build systems that scale, code that lasts, and architectures that stay simple.
