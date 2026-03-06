@@ -112,8 +112,8 @@ Database
 
 ## 🌐 Connect
 
-* LinkedIn: ([add your linkedin](https://www.linkedin.com/in/fuccigianluca/))
-* Email: ([send email](mailto:gianluca.aroc@gmail.com))
+* LinkedIn: ([link](https://www.linkedin.com/in/fuccigianluca/))
+* Email: ([link](mailto:gianluca.aroc@gmail.com))
 
 ---
 
