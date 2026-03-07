@@ -153,7 +153,7 @@ Database
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Gianluca-X/Gianluca-X/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Gianluca-X/Gianluca-X/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
