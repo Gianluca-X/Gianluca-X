@@ -127,13 +127,13 @@ Database
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gianluca-X&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gianluca-X&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-X&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-X&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -163,7 +163,7 @@ Database
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gianluca-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gianluca-X&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
