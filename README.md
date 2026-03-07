@@ -1,72 +1,79 @@
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Gianluca-X&color=blue&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+<img src="https://komarev.com/ghpvc/?username=Gianluca-X&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
 <h1 align="center">Gianluca Fucci</h1>
-<h3 align="center">Backend Engineer | Java | Microservices | Distributed Systems</h3>
+
+<h3 align="center">
+Backend Engineer • Java • Microservices • Distributed Systems
+</h3>
 
 <p align="center">
-Building scalable backend systems and distributed architectures.
+Building scalable backend systems and production-ready architectures.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi, I'm **Gianluca Fucci**, a backend-focused software engineer passionate about building scalable systems and robust APIs.
+Hi, I'm **Gianluca Fucci**, a backend-focused software engineer passionate about building **scalable systems and robust APIs**.
 
-I specialize in **Java and microservices architecture**, designing backend services that are modular, maintainable and production-ready.
+I specialize in **Java and microservices architecture**, designing backend services that are **modular, maintainable and production-ready**.
 
-My main interests include:
+My main focus is creating **clean, secure and high-performance backend systems**.
 
-* Distributed systems
-* Microservices architecture
-* Authentication and security
-* Backend performance
-* Clean architecture
+### Main interests
 
-🎓 Backend specialization graduate from Digital House.
+• Distributed systems
+• Microservices architecture
+• Authentication & security
+• Backend performance
+• Clean architecture
+
+🎓 Backend Engineering specialization graduate from **Digital House**.
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
-### Backend
+## Backend
 
 * Java
 * Spring Boot
 * Spring Security
-* REST APIs
+* REST API Design
 * JWT Authentication
 
-### Architecture
+## Architecture
 
-* Microservices
+* Microservices Architecture
 * API Gateway
 * Service Discovery (Eureka)
 * Load Balancing
 * Clean Architecture
 
-### Frontend
+## Frontend
 
 * JavaScript
 * React
 * HTML
 * CSS
 
-### Databases
+## Databases
 
 * PostgreSQL
 * MySQL
 
-### Tools
+## Tools
 
 * Git
 * Docker
@@ -75,19 +82,20 @@ My main interests include:
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### Digital Money House
+## Digital Money House
 
-A virtual wallet platform built using **microservices architecture**.
+A **virtual wallet platform** built using **microservices architecture**.
 
-Main features:
+### Key Features
 
 * User management
 * Account management
-* Authentication with JWT
+* Secure authentication with JWT
 * API Gateway routing
 * Service discovery
+* Scalable backend architecture
 
 ### Architecture Overview
 
@@ -107,36 +115,61 @@ Database
 
 ---
 
-## 📊 GitHub Stats
+# 🧪 Currently Building
+
+• Authentication microservice with JWT
+• Scalable backend systems with Spring Boot
+• Distributed microservices architectures
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gianluca-X&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianluca-X&layout=compact&theme=tokyonight"/>
+
 </p>
+
 ---
-## 📈 Activity Graph
+
+# 📈 Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianluca-X&theme=tokyo-night"/>
+
 </p>
+
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Gianluca-X/Gianluca-X/output/github-contribution-grid-snake.svg"/>
+
 </p>
+
 ---
-## 🏆 GitHub Trophies
+
+# 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Gianluca-X&theme=tokyonight&no-frame=true&row=1"/>
+
 </p>
+
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/fuccigianluca/
@@ -146,6 +179,6 @@ https://www.linkedin.com/in/fuccigianluca/
 
 ---
 
-## 🧠 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 > Build systems that scale, code that lasts, and architectures that stay simple.
